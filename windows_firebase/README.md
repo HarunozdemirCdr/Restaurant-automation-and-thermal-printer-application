@@ -52,19 +52,15 @@ Restaurant automation program is a windows application.
 
 - **VERSION 1**:
 <p>
-  <img width="380" src="https://i.imgur.com/8rZYKSj.png">
+  <img width="380" src="">
  </p>
 - **VERSION 2**:
 <p>
-  <img width="380" src="https://i.imgur.com/eJsR4NS.png">
+  <img width="380" src="">
   </p>
     
     
 <p>
-  <img width="380" src="https://i.imgur.com/TX67E1N.png">
-  <img width="380" src="https://i.imgur.com/khP73vH.png">
-  <img width="380" src="https://i.imgur.com/pTOmhuY.png">
-  <img width="380" src="https://i.imgur.com/C5wBhGN.png">
-  <img width="380" src="https://i.imgur.com/A1l2APz.png">
-  <img width="380" src="https://i.imgur.com/JkFq3SI.png">
+  <img width="380" src="https://imgur.com/a/3ILsGRF">
+ 
 </p>
