@@ -1,7 +1,4 @@
-<p align="center"><img width="640" height="320" src="https://imgyukle.com/i/QltmRH"></p>
-
-
-  </br></br>
+<img width="640" height="320" src="https://imgyukle.com/i/QltmRH">
 
 
 ## Description
