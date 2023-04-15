@@ -12,8 +12,8 @@ import 'package:pdf/widgets.dart' as pw;
 import 'package:pdf/pdf.dart';
 import 'package:provider/provider.dart';
 
-const project_id = 'windowsfirebase-b6a04';
-const api_key = 'AIzaSyCfhc45_XcL6xlXWw4HGew0Ow3P5am9iR8';
+const project_id = 'project_id';
+const api_key = 'api_key';
 
 void main() {
   Firestore.initialize(project_id);
