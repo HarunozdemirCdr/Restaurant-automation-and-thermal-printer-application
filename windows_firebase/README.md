@@ -1,4 +1,4 @@
-<p align="center"><img width="1280" height="640" src="https://imgur.com/a/MbQQFoS"></p>
+<p align="center"><img width="640" height="320" src="https://imgur.com/a/MbQQFoS"></p>
 
 
   </br></br>
@@ -48,19 +48,3 @@ Restaurant automation program is a windows application.
 
 - **THERMAL PRINTER**: You can print your tickets. This programme can work with thermal printer succesfully.
 
-## Screenshots
-
-- **VERSION 1**:
-<p>
-  <img width="380" src="">
- </p>
-- **VERSION 2**:
-<p>
-  <img width="380" src="">
-  </p>
-    
-    
-<p>
-  <img width="380" src="https://imgur.com/a/3ILsGRF">
- 
-</p>
