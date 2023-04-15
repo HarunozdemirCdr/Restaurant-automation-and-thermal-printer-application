@@ -1,4 +1,3 @@
-<img width="640" height="320" src="https://imgyukle.com/i/QltmRH">
 
 
 ## Description
