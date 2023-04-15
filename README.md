@@ -1,4 +1,6 @@
 
+![RESTAURANT AUTOMATION](https://user-images.githubusercontent.com/108359272/232235031-b95e90b1-cf0b-44af-b15b-c8253ce43924.png)
+
 
 ## Description
 
